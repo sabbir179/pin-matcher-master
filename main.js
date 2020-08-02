@@ -1,4 +1,4 @@
-// 4 digit Pin number generating 
+// 4 digit Random Pin number generating 
 const pinDisplay = document.getElementById('pinDisplay');
 const randomBtn = document.querySelector('.generate-btn');
 randomBtn.addEventListener('click', function () {
